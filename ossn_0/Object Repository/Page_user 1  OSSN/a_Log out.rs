@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log out</name>
+   <tag></tag>
+   <elementGuidId>1a800c4f-c2d6-44d2-9061-98fa016884a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Log out')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.menu-topbar-dropdown-logout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item menu-topbar-dropdown-logout</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost/action/user/logout?ossn_ts=1655443667&amp;ossn_token=a8817e076fd1c4e3a40b252622b992fe1ee691b3be3cb59fe633c24bf58ae8db</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log out</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;opensource-socalnetwork&quot;]/div[@class=&quot;ossn-page-container&quot;]/div[@class=&quot;topbar&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9 col-md-3 text-right right-side&quot;]/div[@class=&quot;topbar-menu-right&quot;]/ul[1]/li[@class=&quot;ossn-topbar-dropdown-menu&quot;]/div[@class=&quot;dropdown&quot;]/ul[@class=&quot;dropdown-menu multi-level show&quot;]/li[2]/a[@class=&quot;dropdown-item menu-topbar-dropdown-logout&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Settings'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OSSN'])[1]/following::a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='---'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Cover'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log out']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655443667&amp;ossn_token=a8817e076fd1c4e3a40b252622b992fe1ee691b3be3cb59fe633c24bf58ae8db']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655443667&amp;ossn_token=a8817e076fd1c4e3a40b252622b992fe1ee691b3be3cb59fe633c24bf58ae8db' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have poked user 1!'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655308428&amp;ossn_token=0f9118f9d411a23421308beede2a6a228089cd823c6cc1074d50739404c0d347']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li[3]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655308428&amp;ossn_token=0f9118f9d411a23421308beede2a6a228089cd823c6cc1074d50739404c0d347' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655308323&amp;ossn_token=e986549f066a6592e44f1744bbf3b53853998004d7ca61099983afbc6a426fc5']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655308323&amp;ossn_token=e986549f066a6592e44f1744bbf3b53853998004d7ca61099983afbc6a426fc5' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡El usuario ha sido actualizado!'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655307290&amp;ossn_token=c67bc3f73bbb6dfab95f4666e2db2e331e9e0511f78fa31ad53be8c369bdbf2f']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655307290&amp;ossn_token=c67bc3f73bbb6dfab95f4666e2db2e331e9e0511f78fa31ad53be8c369bdbf2f' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User updated!'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655307221&amp;ossn_token=98c33bda0e1f2569d8d66c301258438f9257b45a040c9473f638aa98c90be77b']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655307221&amp;ossn_token=98c33bda0e1f2569d8d66c301258438f9257b45a040c9473f638aa98c90be77b' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655307163&amp;ossn_token=78f1c9611653df412e45652fd09222727a99ee49c1996999992cc3829d36c8dc']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655307163&amp;ossn_token=78f1c9611653df412e45652fd09222727a99ee49c1996999992cc3829d36c8dc' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655307108&amp;ossn_token=baf59f44faa3c111592c619154a87e535699f8ab64f7317b3f81ef3523a586b1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655307108&amp;ossn_token=baf59f44faa3c111592c619154a87e535699f8ab64f7317b3f81ef3523a586b1' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655307038&amp;ossn_token=530dc4559ca3965ed0b582fa2689cccfdce19e22bb79ada42353b656b034e0f1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655307038&amp;ossn_token=530dc4559ca3965ed0b582fa2689cccfdce19e22bb79ada42353b656b034e0f1' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655304094&amp;ossn_token=68e4aa4942bc1bc84b425ff3797793a27ac9437754597f7713df0ca9d818fb25']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655304094&amp;ossn_token=68e4aa4942bc1bc84b425ff3797793a27ac9437754597f7713df0ca9d818fb25' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/action/user/logout?ossn_ts=1655303981&amp;ossn_token=7082607b3e018c1b2526598d964b7475e6c0a085c3ca91b8a57f87a7af879f69']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/action/user/logout?ossn_ts=1655303981&amp;ossn_token=7082607b3e018c1b2526598d964b7475e6c0a085c3ca91b8a57f87a7af879f69' and (text() = 'Log out' or . = 'Log out')]</value>
+   </webElementXpaths>
+</WebElementEntity>

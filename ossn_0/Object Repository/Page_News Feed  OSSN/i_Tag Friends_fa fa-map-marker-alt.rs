@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tag Friends_fa fa-map-marker-alt</name>
+   <tag></tag>
+   <elementGuidId>6c14f83a-5664-412d-9982-fcc5e10dc40f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-map-marker-alt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ossn-wall-form']/fieldset/div[2]/div[5]/li[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-map-marker-alt</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ossn-wall-form&quot;)/fieldset[1]/div[@class=&quot;ossn-wall-container-data ossn-wall-container-data-post&quot;]/div[@class=&quot;controls&quot;]/li[@class=&quot;ossn-wall-location ossn-wall-container-control-menu-location&quot;]/i[@class=&quot;fa fa-map-marker-alt&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ossn-wall-form']/fieldset/div[2]/div[5]/li[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/i</value>
+   </webElementXpaths>
+</WebElementEntity>
